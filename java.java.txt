@@ -6,7 +6,11 @@ public class HelloWorld {
 
         Scanner reader = new Scanner(System.in);
         System.out.print("Enter a number: ");
+
          System.out.print("Enter: ");
+
+         System.out.print(" number: ");
+
 
         int number = reader.nextInt();
 
